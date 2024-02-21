@@ -41,8 +41,8 @@ return Card(
             mainAxisAlignment: MainAxisAlignment.end,
             children: [
               SizedBox(
-                width: 40,
-                height: 40,
+                width: 30,
+                height: 30,
                 child: FloatingActionButton(
                   onPressed: delete,
                   tooltip: 'Delete quote',
